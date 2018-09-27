@@ -10,6 +10,9 @@ dependencies:
 - name: jenkinsxdemo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jx-magic
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: jxdemo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
